@@ -16,6 +16,9 @@ N boyutlu bir dizi için aşağıdaki işlemleri gerçekleştiriniz:
     dizideki bir önceki karakteri işaret etmelidir. Eğer dizinin ilk elemanında ise son
     karaktere dönmelidir.
     o Eğer ‘C’ veya ‘c’ girilirse program sonmalıdır. 
+    
+### Örnek ekran çıktısı:
+![Screenshot_31](https://user-images.githubusercontent.com/79109512/174170752-223cfa5d-204c-45a6-b751-f14140b8b038.png)
 
 b)
 NxN bir dizi için aşağıdaki işlemleri gerçekleştirniz:
